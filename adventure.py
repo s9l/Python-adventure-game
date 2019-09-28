@@ -1,4 +1,4 @@
-__author__ = 'Les Pounder'
+__author__ = 'Uncle Pepper Si'
 
 #The lines below import modules of code into our game, in particular these import time functions to allow us to pause and stop the game, and random provides a method of choosing random numbers or characters.
 from time import *
@@ -129,7 +129,7 @@ else:
     print "You stay at home, sat in your favourite chair watching the fire grow colder. The land of Narule no longer has a hero."
     print "Game Over"
     sys.exit(0)
-	
+
 print "In the distance to the north you can see a small village, to the east you can see a river and to the west a field of wild flowers."
 
 #Remember those functions we created at the start of the code? Well here we are using them in the game.
